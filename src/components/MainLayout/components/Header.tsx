@@ -33,7 +33,7 @@ export default function Header() {
             underline="none"
             to="/"
           >
-            Happy Travel
+            Happy Travel Agency
           </Link>
         </Typography>
 
