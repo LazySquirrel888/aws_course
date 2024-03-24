@@ -2,6 +2,13 @@
 
 This is frontend starter project for nodejs-aws mentoring program. It uses the following technologies:
 
+## Links
+
+- [Deployment in S3 bucket](http://test-bucket-2024-03.s3-website-eu-west-1.amazonaws.com/)
+- [Cloudfront URL](https://d1y51ud5s18z0e.cloudfront.net/) - automatic deployment with cache invalidation
+
+## Technologies 
+
 - [Vite](https://vitejs.dev/) as a project bundler
 - [React](https://beta.reactjs.org/) as a frontend framework
 - [React-router-dom](https://reactrouterdotcom.fly.dev/) as a routing library
