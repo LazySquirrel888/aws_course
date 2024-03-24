@@ -19,7 +19,7 @@ plugins:
 
 custom:
   client:
-    bucketName: my-store-app
+    bucketName: test-bucket-2024-03
     distributionFolder: dist
   s3BucketName: ${self:custom.client.bucketName}
 
