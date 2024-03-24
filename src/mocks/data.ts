@@ -5,40 +5,40 @@ import { AvailableProduct, Product } from "~/models/Product";
 
 export const products: Product[] = [
   {
-    description: "Short Product Description1",
+    description: "Tour ID: 124598",
     id: "7567ec4b-b10c-48c5-9345-fc73c48a80aa",
-    price: 24,
-    title: "ProductOne",
+    price: 650,
+    title: "Relaxing Nature Tour",
   },
   {
-    description: "Short Product Description7",
+    description: "Tour ID: 234876",
     id: "7567ec4b-b10c-48c5-9345-fc73c48a80a1",
-    price: 15,
-    title: "ProductTitle",
+    price: 450,
+    title: "Leisure and Serenity",
   },
   {
-    description: "Short Product Description2",
+    description: "Tour ID: 854756",
     id: "7567ec4b-b10c-48c5-9345-fc73c48a80a3",
-    price: 23,
-    title: "Product",
+    price: 280,
+    title: "Scenic Beauty Expedition",
   },
   {
-    description: "Short Product Description4",
+    description: "Tour ID: 687634",
     id: "7567ec4b-b10c-48c5-9345-fc73348a80a1",
-    price: 15,
-    title: "ProductTest",
+    price: 575,
+    title: "Relax and Recharge Trip",
   },
   {
-    description: "Short Product Descriptio1",
+    description: "Tour ID: 937465",
     id: "7567ec4b-b10c-48c5-9445-fc73c48a80a2",
-    price: 23,
-    title: "Product2",
+    price: 760,
+    title: "Travel With Children Adventure",
   },
   {
-    description: "Short Product Description7",
+    description: "Tour ID: 648239",
     id: "7567ec4b-b10c-45c5-9345-fc73c48a80a1",
-    price: 15,
-    title: "ProductName",
+    price: 380,
+    title: "Peaceful Journey",
   },
 ];
 
