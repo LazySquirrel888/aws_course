@@ -5,7 +5,7 @@ This is frontend starter project for nodejs-aws mentoring program. It uses the f
 ## Links
 
 - [Deployment in S3 bucket](http://test-bucket-2024-03.s3-website-eu-west-1.amazonaws.com/)
-- [Cloudfront URL](https://d36jmujda95hbx.cloudfront.net/)
+- [Cloudfront URL](https://d1y51ud5s18z0e.cloudfront.net/) - automatic deployment with cache invalidation
 
 ## Technologies 
 
